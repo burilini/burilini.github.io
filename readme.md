@@ -4,6 +4,15 @@ to my Technical Development Portfolio.  This portfolio has been assembled as par
 WHERE I'M HEADED
 Please keep visiting!  I plan to add some of my graphic work, as well as, some of my maps and layouts of data for business software development.  I still plan to keep access to my GitHub Repositories, but you will access through the project modal. I plan to change things up as I learn more complex and interesting projects.  I would like to keep my cards to 6 for management sake.
 
+INFO
+
+Color Std.
+pk 234, 29, 227
+dk bl 44, 62, 80
+lt bl 0, 204, 255
+orge modal 242, 127, 3
+md gr 26, 188, 156
+
 LICENSE INFO
 * Copyright 2013-2022 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
